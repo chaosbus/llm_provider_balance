@@ -2,7 +2,7 @@
 
 多 LLM Provider 余额监控与模型查询桌面工具。
 
-![app-screenshot](./screenshot.png)
+![app-screenshot](./docs/screenshot01.png)
 
 ---
 
